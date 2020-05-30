@@ -107,7 +107,7 @@ GROUP BY Tb_Consumer.State, Tb_Consumer.City) C
 ON S.State = C.State AND S.City = C.City
 
 
-/* 11) (Extra Credit 2%) For each product list the quantity sold by suppliers in Madison to 
+/* 11) For each product list the quantity sold by suppliers in Madison to 
 consumers in Chicago versus the quantity sold by suppliers in Chicago to consumers in Madison 
 (result columns: product name, quantity Madison_Chicago, quantity Chicago_Madison)? */
 

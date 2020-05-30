@@ -1,8 +1,3 @@
--- Name: Sanzida Parvin
--- DS715 (Final Category I)
-
--- Option Problem #1(a)
-
 /*
 Tb_Supplier(Supp_ID, Name, City, State)
 Tb_Consumer(Con_ID, Name, City, State)
